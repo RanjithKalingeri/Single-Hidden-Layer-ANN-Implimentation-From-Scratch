@@ -8,10 +8,12 @@
 ## Data Sets Used For Implimentation 
 ---------------------
 
-1. Iris Data Set    : 
-2. LandSat Data Set : 
+1. Iris Flower Data Set    :  https://github.com/RanjithKalingeri/Data-Sets/blob/535ae611ea832478a505a3c657341dc130df99ba/Iris.csv
+2. LandSat Data Set        :  https://github.com/RanjithKalingeri/Data-Sets/blob/535ae611ea832478a505a3c657341dc130df99ba/satimage_csv.csv
 
 ## Math behind Implimentation 
+adding source still pending .. 
+
 
 
 ### -------------------------------------------------------------------------------------------------------
